@@ -1,3 +1,7 @@
+
+![Screenshot from 2025-04-25 14-05-05](https://github.com/user-attachments/assets/4e8ab61e-bd27-482d-88fe-40d78237b04a)
+![Screenshot from 2025-04-25 14-02-53](https://github.com/user-attachments/assets/f088ab6f-fefb-4e64-8971-b07b550b0536)
+
 # DSR Management System
 
 A NestJS-based Daily Status Report (DSR) Management System with user authentication and DSR tracking.
