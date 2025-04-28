@@ -1,10 +1,19 @@
 
-![Screenshot from 2025-04-25 14-05-05](https://github.com/user-attachments/assets/4e8ab61e-bd27-482d-88fe-40d78237b04a)
-![Screenshot from 2025-04-25 14-02-53](https://github.com/user-attachments/assets/f088ab6f-fefb-4e64-8971-b07b550b0536)
-
 # DSR Management System
 
 A NestJS-based Daily Status Report (DSR) Management System with user authentication and DSR tracking.
+
+## Screenshots
+
+### Swagger API Documentation
+![Swagger UI]![Screenshot from 2025-04-28 11-02-16](https://github.com/user-attachments/assets/f0b71d21-6e57-41c6-8fe2-7093756fc992)
+
+*Interactive API documentation with endpoint testing capabilities*
+
+### SonarQube Code Analysis
+![SonarQube Report]![Screenshot from 2025-04-25 14-02-53](https://github.com/user-attachments/assets/991a0de2-de2b-4c1a-a826-a00db111bab3)
+
+*Code quality metrics and security vulnerability assessment*
 
 ## Features
 
@@ -29,10 +38,12 @@ A NestJS-based Daily Status Report (DSR) Management System with user authenticat
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
-- PostgreSQL
-- Redis
-- Cloudinary account
+| Requirement    | Version   | Installation Guide                      |
+|---------------|-----------|-----------------------------------------|
+| Node.js       | ≥ 14.x    | [Download Node.js](https://nodejs.org/) |
+| PostgreSQL    | ≥ 12.x    | [PostgreSQL Docs](https://www.postgresql.org/docs/) |
+| Redis         | ≥ 6.x     | [Redis Quickstart](https://redis.io/docs/getting-started/) |
+| npm           | ≥ 6.x     | Bundled with Node.js                    |
 
 ## Setup
 
